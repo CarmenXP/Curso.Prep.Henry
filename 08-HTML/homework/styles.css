@@ -1,0 +1,16 @@
+#thirdId{
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    background-color: rgb(214, 160, 80);
+}
+#spandId{
+    margin: 50px;
+    font-size:  18px;
+}
+img{
+    width: 400px;
+}
+h1{
+    color: darkblue;
+}
